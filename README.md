@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swamy Lekkala</h1>
 <h3 align="center">"Aspiring DevOps Engineer with hands-on experience in AWS cloud services and DevOps tools like Jenkins, Docker, GitHub Actions, and Terraform. Skilled in building CI/CD pipelines and managing cloud infrastructure.."</h3>
 
-- 🌱 I’m currently learning **AWS Tools, Linux, Jenkins, Ci/Cd pipeline, Docker**
 
 - 📫 How to reach me **swamylekkala5512@gmail.com**
 
